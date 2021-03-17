@@ -5,4 +5,5 @@ mv dist/* ./ &&
 rm -rf dist &&
 ga . &&
 gc -m 'update' &&
-gp
+gp &&
+git checkout -
