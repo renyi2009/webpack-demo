@@ -1,7 +1,7 @@
 import x from './x.js'
 import png from './assets/1.png'
 
-console.log('--test--')
+console.log('--111--')
 console.log(png)
 const div = document.getElementById('app')
 /*div.innerHTML =  `
