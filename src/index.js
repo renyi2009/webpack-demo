@@ -1,7 +1,7 @@
 import x from './x.js'
 import png from './assets/1.png'
 
-console.log('--hahaha--')
+console.log('--yoyoyo--')
 console.log(png)
 const div = document.getElementById('app')
 /*div.innerHTML =  `
